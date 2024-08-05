@@ -2,7 +2,7 @@
 
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
-
+[Credit Card Financial Dashboard-Customer.pdf](https://github.com/user-attachments/files/16490223/Credit.Card.Financial.Dashboard-Customer.pdf)
 
 ## 📊 Credit Card Customer Report Overview
 
